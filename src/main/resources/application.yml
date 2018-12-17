@@ -1,0 +1,10 @@
+server.port: 8080     # HTTP (Tomcat) port
+management.port: 8081 # port used to expose actuator
+
+# LOG level  
+logging.level.pl: DEBUG
+
+# test data
+test.client:
+  name: Alicja
+  surname: Kotek
